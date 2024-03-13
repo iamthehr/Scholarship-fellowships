@@ -1,1 +1,1 @@
-# Scholarship-fellowships
+# Scholarship-and-Fellowship
