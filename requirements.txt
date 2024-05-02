@@ -114,6 +114,7 @@ sqlparse==0.4.4
 stack-data==0.6.3
 terminado==0.18.0
 threadpoolctl==3.2.0
+turtle==0.0.1
 tinycss2==1.2.1
 tornado==6.4
 tqdm==4.66.1
